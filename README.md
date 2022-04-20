@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imaginecities
 - 👀 I’m a nonprifit interested in building more adaptable communities
 - 🌱 I’m currently learning the complexities of cities
-- 💞️ I’m looking to collaborate on community-building projects
+- 💞️ I’m looking to collaborate on community making projects
 - 📫 How to reach me www.imaginecities.com
 
 <!---
